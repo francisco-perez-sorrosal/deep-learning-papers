@@ -3,7 +3,4 @@ set -ex
 
 echo "Configuring RISE..."
 
-pwd
-ls -la
-
-config_rise.py
+./config_rise.py
