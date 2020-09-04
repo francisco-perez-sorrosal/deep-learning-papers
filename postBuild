@@ -1,0 +1,5 @@
+#!/bin/bash
+set -ex
+
+echo "Configuring RISE..."
+config_rise.py
